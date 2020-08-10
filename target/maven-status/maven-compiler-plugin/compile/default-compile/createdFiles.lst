@@ -1,0 +1,8 @@
+cn\zju\model\User.class
+cn\zju\controller\SwaggerController.class
+cn\zju\controller\UserController.class
+cn\zju\service\UserService.class
+cn\zju\Application.class
+cn\zju\config\SwaggerConfig.class
+cn\zju\mapper\UserMapper.class
+cn\zju\controller\HelloController.class
